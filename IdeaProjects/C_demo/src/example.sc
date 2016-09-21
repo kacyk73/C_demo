@@ -1,2 +1,1 @@
-
-sssyv
+"Hello, world"
