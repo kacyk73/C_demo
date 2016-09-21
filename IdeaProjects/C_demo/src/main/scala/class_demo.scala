@@ -7,5 +7,5 @@
 package example
 
 object class_demo extends App {
-  println("Hello Worsldedg!")
+  println("Hello Worswldedg!")
 }
